@@ -1,0 +1,3018 @@
+26
+ACHIM PARIBAHAN
+gabtoli
+technical
+ansar camp
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+bashundhara
+nadda
+natun bazar
+bashtola
+shahjadpur
+uttar badda bazar
+badda
+madhya badda
+merul
+rampura bridge
+banasree
+demra staff quarter
+19
+AGRADUT BOISHAKI
+savar
+hemayatpur
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+agargaon
+zia uddan
+bijoy sarani
+jahangir gate
+mohakhali
+wireless mor
+gulshan bridge
+gulshan 1
+badda
+shahjadpur
+bashtola
+natun bazar
+28
+AIRPORT BANGABANDHU AVENUE
+fulbaria
+golap shah mazar
+gpo
+paltan
+press club
+high court
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+15
+AKIK PARIBAHAN
+ansar camp
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+bashundhara
+nadda
+natun bazar
+28
+AL MADINA PLUS ONE
+nandan park
+zirani bazar
+baipayl
+nobinagar
+savar
+hemayetpur
+aminbazar
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+notre dame college
+arambagh
+kamalapur
+19
+AL MAKKA TRANSPORT
+motijheel
+gulistan
+gpo
+paltan
+kakrail
+malibagh
+mouchak
+moghbazar
+nabisco
+mohakhali
+chairman bari
+kakoli
+banani
+ecb
+kalshi
+purobi
+mirpur 10
+mirpur 2
+mirpur 1
+15
+ALIF ENTERPRISE
+mirpur 1
+mirpur 2
+mirpur 10
+kazipara
+shewrapara
+agargaon
+bijoy sarani
+jahangir gate
+mohakhali
+wireless mor
+gulshan bridge
+gulshan 1
+badda
+rampura bridge
+bansree
+18
+ALIF ENTERPRISE 2
+shia masjid
+japan garden city
+adabor
+shyamoli
+shishu mela
+agargaon
+zia uddan
+bijoy sarani
+jahangir gate
+mohakhali
+wireless mor
+gulshan 1
+link road
+badda
+madhya badda
+merul
+rampura
+banasree
+11
+ALIF ENTERPRISE 3
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+konabari
+rupnagar
+birulia
+ashulia
+zirabo
+fantasy kingdom
+10
+ALIKE
+balughat
+signal
+cmh
+garrison
+adamjee college
+workshop
+jahangir gate
+farmgate
+bangla motor
+shahbag
+20
+ANABIL
+sign board
+shonir akhra
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+merul
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+gazipur chowrasta
+24
+ARK TRANSPORT
+ghatar char
+mohammadpur
+asad gate
+khamarbari
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+kamarpara
+dhour
+20
+ASHIRBAD PARIBAHAN
+duaripara
+rupnagar abashik mor
+shiyal bari
+proshika mor
+mirpur 2
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+city college
+new market
+nilkhet
+azimpur
+17
+ASHULIA CLASSIC
+nobinagar
+baipayl
+jamgora
+fantasy kingdom
+zirabo
+ashulia bazar
+kamarpara
+abdullahpur
+house building
+airport
+kuril bishwa road
+shewra
+mes
+kakoli
+banani
+chairman bari
+mohakhali
+22
+ASMANI PARIBAHAN
+dhour
+abdullahpur
+house building
+azampur
+rajlakshmi
+jasimuddin
+airport
+khilkhet
+kuril bishwa road
+jamuna future park
+nadda
+natun bazar
+shahjadpur
+uttar badda bazar
+badda
+madhya badda
+merul
+rampura
+banasree
+demra staff quarter
+tarabo
+madanpur
+18
+AYAT PARIBAHAN
+chiriakhana
+sony hall
+mirpur 2
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+moghbazar
+mouchak
+malibagh mor
+rajarbagh
+kamalapur
+arambagh
+35
+AZMERY GLORY
+sadarghat
+ray shaheb bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+moghbazar
+nabisco
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur bypass
+konabari
+chandra
+23
+BRTC
+madanpur
+kanchpur
+chittagong road
+sign board
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+bangla motor
+kawran bazar
+farmgate
+khamarbari
+asad gate
+shyamoli
+kallyanpur
+technical
+gabtoli
+savar
+23
+BRTC 2
+motijheel
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+bangla motor
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+kakoli
+banani
+staff road
+shewra
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+24
+BRTC 3
+motijheel
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+bangla motor
+kawran bazar
+farmgate
+khamarbari
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+darussalam
+technical
+gabtoli
+aminbazar
+hemayetpur
+baipayl
+zirani bazar
+chandra
+15
+BRTC 4
+mohammadpur
+asad gate
+khamarbari
+farmgate
+jahangir gate
+mohakhali
+wireless mor
+gulshan 1
+badda
+shahjadpur
+natun bazar
+nadda
+bashundhara
+jamuna future park
+kuril bishwa road
+20
+BRTC 5
+kamalapur
+motijheel
+gulistan
+gpo
+press club
+shahbag
+bangla motor
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+wireless mor
+gulshan 1
+badda
+shahjadpur
+natun bazar
+nadda
+bashundhara
+jamuna future park
+kuril bishwa road
+6
+BRTC 6
+bhulta
+kanchan bridge
+nila market
+300 feet
+bashundhara ra
+kuril bishwa road
+30
+BAHON
+mirpur 14
+mirpur 10
+mirpur 2
+mirpur 1
+ansar camp
+bangla college
+technical
+darussalam
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+katabon
+shahbag
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+notre dame college
+arambagh
+kamalapur
+mugdapara
+basabo
+khilgaon
+22
+BALAKA PARIBAHAN
+sayedabad
+manik nagar
+tt para
+kamalapur
+malibagh
+mouchak
+moghbazar
+satrasta
+nabisco
+mohakhali
+chairman bari
+banani
+kakoli
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+23
+BASUMATI
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+manik mian
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+babu bazar
+keraniganj
+mawa
+22
+BASUMATI TRANSPORT
+gabtoli
+mirpur 1
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur chowrasta
+19
+BEST TRANSPORT
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+ittefaq
+sayedabad
+jatrabari
+25
+BHUIYAN PARIBAHAN
+japan garden city
+ring road
+adabor
+shyamoli
+shishu mela
+agargaon
+zia uddan
+bijoy sarani
+old airport
+jahangir gate
+mohakhali
+chairman bari
+shainik club
+kakoli
+banani
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+house building
+abdullahpur
+13
+BIHANGA
+mirpur 12
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+agargaon
+bijoy sarani
+jahangir gate
+mohakhali
+wireless mor
+gulshan bridge
+gulshan 1
+badda
+23
+BIHANGA PARIBAHAN
+duaripara
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+ray shaheb bazar
+sadarghat
+22
+BIHANGA PARIBAHAN 2
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+darussalam
+technical
+bangla college
+tolarbag
+ansar camp
+mirpur 1
+mirpur 2
+proshika mor
+rupnagar
+duaripara
+20
+BIKALPA AUTO SERVICE
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 1
+kazipara
+shewrapara
+taltola
+agargaon
+bijoy sarani
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gulistan
+motijheel
+18
+BIKALPA CITY SUPER SERVICE
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+dhanmondi 27
+dhanmondi 32
+kalabagan
+city college
+new market
+nilkhet
+azimpur
+dhakeshwari
+27
+BIKASH PARIBAHAN
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 27
+dhanmondi 32
+khamarbari
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+azampur
+house building
+abdullahpur
+kamarpara
+dhour
+16
+BONDHU PARIBAHAN
+gulistan
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+malibagh railgate
+rampura
+merul
+madhya badda
+badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+10
+BROTHERS PARIBAHAN
+gabtoli
+beribadh tin rastar mor
+rayer bazar
+sikder medical
+hazaribag
+nawabganj
+kamrangirchar
+showari ghat
+mitford ghat
+babu bazar
+11
+CANTONMENT BUS SERVICE
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+ansar camp
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+6
+CANTONMENT MINI SERVICE
+mirpur 14
+kochukhet
+mirpur cantonment
+shainik club
+kakoli
+banani
+9
+CHAMPION
+bhashantek
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+ansar camp
+technical
+gabtoli
+21
+D LINK
+fulbaria
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+dhamrai
+19
+D ONE TRANSPORT
+motijheel
+daynik bangla mor
+paltan
+press club
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+asad gate
+college gate
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+nobinagar
+dhamrai
+kalampur
+19
+DESH BANGLA
+postagola
+dholairpar
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+merul
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+kamarpara
+20
+DEWAN
+azimpur
+new market
+city college
+science lab
+katabon
+shahbag
+bangla motor
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+wireless mor
+gulshan 1
+badda
+shahjadpur
+natun bazar
+nadda
+bashundhara
+jamuna future park
+kuril bishwa road
+3
+DHAKA CHAKA
+police plaza
+gulshan 1
+gulshan 2
+3
+DHAKA CHAKA 2
+banani
+gulshan 2
+natun bazar
+25
+DHAKA PARIBAHAN
+motijheel
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+banani
+kakoli
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+board bazar
+gazipur chowrasta
+shib bari
+19
+DIPON
+tajmahal road
+salimullah road
+jakir hossain road
+shankar
+star kabab
+dhanmondi 15
+jigatola
+city college
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+baitul mukarram
+gulistan
+motijheel
+arambagh
+23
+DISHARI PARIBAHAN
+chiriakhana
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+babu bazar
+keraniganj
+20
+ETC TRANSPORT
+golap shah mazar
+gpo
+paltan
+press club
+high court
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+khamarbari
+agargaon
+taltola
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+purobi
+pallabi
+mirpur 12
+17
+FTCL
+mohammadpur
+shankar
+star kabab
+dhanmondi 15
+jigatola
+city college
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+arambagh
+9
+FIRST TEN
+vashantek
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+ansar camp
+technical
+gabtoli
+30
+GAZIPUR PARIBAHAN
+motijheel
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+moghbazar
+nabisco
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur chowrasta
+shib bari
+8
+GRAMEEN
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+ansar camp
+technical
+gabtoli
+24
+GRAMEEN SHUBHECCHA
+fulbaria
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+baipayl
+zirani bazar
+nandan park
+chandra
+24
+GREEN DHAKA
+motijheel
+gulistan
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+rampura
+merul
+badda
+shahjadpur
+natun bazar
+nadda
+bashundhara
+jamuna future park
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+30
+HIMACHOL
+metro hall
+chashara
+shibu market
+jalkuri
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+jonopath mor
+gulistan
+gpo
+paltan
+press club
+high court
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+bijoy sarani
+agargaon
+taltola
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+purobi
+pallabi
+mirpur 12
+16
+ITIHAS PARIBAHAN
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+ansar camp
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+nobinagar
+baipayl
+zirani bazar
+nandan park
+chandra
+16
+J M SUPER PARIBAHAN
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+15
+JABALE NUR PARIBAHAN
+ansar camp
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+bashundhara
+nadda
+natun bazar
+10
+JANJABIL
+gabtoli
+beribadh tin rastar mor
+rayer bazar
+sikder medical
+hazaribag
+nawabganj
+kamrangirchar
+showari ghat
+mitford ghat
+babu bazar
+18
+KANAK
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+22
+KHAJABABA PARIBAHAN
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+sayedabad
+jatrabari
+20
+KIRONMALA PARIBAHAN
+kamrangirchar
+bosila
+mohammadpur
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+ansar camp
+mirpur 1
+rupnagar
+birulia
+ashulia
+zirabo
+narshinghapur
+sura bari
+kashimpur
+jarun
+konabari
+32
+LABBAIK
+savar
+hemayetpur
+aminbazar
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+moghbazar
+mouchak
+malibagh mor
+rajarbagh
+khilgaon flyover
+basabo
+mugdapara
+manik nagar
+golapbag
+chowrasta
+sayedabad
+jonopath mor
+jatrabari
+kazla
+shonir akhra
+rayerbag
+matuail
+sign board
+20
+LAMS PARIBAHAN
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+bijoy sarani
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+32
+M M LOVELY
+savar
+hemayetpur
+aminbazar
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+moghbazar
+mouchak
+malibagh mor
+rajarbagh
+khilgaon flyover
+basabo
+mugdapara
+manik nagar
+golapbag
+chowrasta
+sayedabad
+jonopath mor
+jatrabari
+kazla
+shonir akhra
+rayerbag
+matuail
+sign board
+16
+MTCL 2
+mohammadpur
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+arambagh
+17
+MALANCHA TRANSPORT
+mohammadpur
+shankar
+star kabab
+dhanmondi 15
+jigatola
+city college
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+dayaganj
+dhupkhola
+24
+MANJIL EXPRESS
+chittagong road
+sign board
+shonir akhra
+gulistan
+gpo
+paltan
+kakrail
+malibagh mor
+mouchak
+moghbazar
+satrasta
+nabisco
+mohakhali
+chariman bari
+banani
+kakoli
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+15
+MEGHLA TRANSPORT
+kalabagan
+science lab
+katabon
+shahbag
+high court
+press club
+paltan
+gpo
+gulistan
+sayedabad
+jatrabari
+shonir akhra
+sign board
+kachpur
+bhulta
+20
+MESHKAT TRANSPORT
+chittagong road
+sign board
+shonir akhra
+jatrabari
+jonopath mor
+sayedabad
+ittefaq
+motijheel
+daynik bangla mor
+paltan
+press club
+high court
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+khamarbari
+asad gate
+mohammadpur
+21
+MIDLINE
+mohammadpur
+shankar
+star kabab
+dhanmondi 15
+jigatola
+city college
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+arambagh
+kamalapur
+mugdapara
+basabo
+khilgaon
+16
+MIRPUR LINK
+ecb
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+dhanmondi 27
+dhanmondi 32
+kalabagan
+city college
+new market
+nilkhet
+azimpur
+18
+MIRPUR METRO SERVICE
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+darussalam
+technical
+bangla college
+tolarbag
+ansar camp
+mirpur 1
+23
+MIRPUR UNITED SERVICE
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+ray shaheb bazar
+sadarghat
+20
+MODHUMOTI PARIBAHAN
+chiriakhana
+sony hall
+mirpur 2
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+idb
+bijoy sarani
+jahangir gate
+mohakhali
+wireless
+gulshan 1
+link road
+badda
+merul
+rampura
+banasree
+demra staff quarter
+11
+MOHONA
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+konabari
+rupnagar
+birulia
+ashulia
+zirabo
+fantasy kingdom
+17
+MOITRI
+mohammadpur
+shankar
+star kabab
+dhanmondi 15
+jigatola
+city college
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+arambagh
+30
+MOUMITA TRANSPORT
+chashara
+shibu market
+jalkuri
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+kallyanpur
+gabtoli
+aminbazar
+hemayetpur
+savar
+zirani bazar
+nandan park
+chandra
+29
+NILACHOL
+chittagong road
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+nobinagar
+manikganj
+paturia
+21
+NOBOKOLI PARIBAHAN
+chiriakhana
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+shukrabad
+dhanmondi 32
+kalabagan
+science lab
+katabon
+shahbag
+high court
+fulbaria
+naya bazar
+babu bazar
+keraniganj
+22
+NUR E MAKKA PARIBAHAN
+chiriakhana
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+bashundhara
+nadda
+natun bazar
+bashtola
+shahjadpur
+uttar badda bazar
+badda
+madhya badda
+merul
+rampura bridge
+aftab nagar
+20
+OMAMA INTERNATIONAL
+motijheel
+daynik bangla mor
+paltan
+press club
+shahbag
+bangla motor
+kawran bazar
+farmgate
+jahangir gate
+mohakhali
+chariman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+25
+ONE TRANSPORT
+nandan park
+zirani bazar
+baipayl
+nobinagar
+savar
+hemayetpur
+aminbazar
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+22
+PALLABI SUPER SERVICE
+gabtoli
+technical
+ansar camp
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+kamarpara
+26
+PARISTHAN PARIBAHAN
+bosila
+mohammadpur
+asad gate
+college gate
+shyamoli
+kallyanpur
+darussalam
+technical
+bangla college
+ansar camp
+mirpur 1
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+house building
+abdullahpur
+15
+POWER PARIBAHAN
+mirpur 14
+mirpur 10
+mirpur 2
+sony hall
+mirpur 1
+konabari
+rupnagar
+birulia
+ashulia
+zirabo
+narshinghapur
+sura bari
+kashimpur
+jarun
+konabari
+10
+PRATTAY
+gabtoli
+beribadh tin rastar mor
+rayer bazar
+sikder medical
+hazaribag
+nawabganj
+kamrangirchar
+showari ghat
+mitford ghat
+babu bazar
+34
+PRAVATI BANASREE PARIBAHAN
+fulbaria
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+moghbazar
+nabisco
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur chowrasta
+joydebpur
+sreepur
+baromi
+30
+PROCHESTA
+mawa
+keraniganj
+babu bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+malibagh railgate
+rampura
+merul
+madhya badda
+badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+nadda
+bashundhara
+kuril
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+27
+PROJAPATI PARIBAHAN
+bosila
+mohammadpur
+asad gate
+college gate
+shyamoli
+kallyanpur
+darussalam
+technical
+bangla college
+ansar camp
+mirpur 1
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+house building
+abdullahpur
+kamarpara
+19
+RABRAB PARIBAHAN
+gabtoli
+technical
+ansar camp
+mirpur 1
+mirpur 2
+mirpur 10
+purobi
+kalshi
+ecb
+mes
+banani
+kakoli
+chairman bari
+wireless mor
+gulshan bridge
+gulshan 1
+badda
+rampura bridge
+banasree
+18
+RAIDA
+postagola
+dholairpar
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+merul
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+dia bari
+19
+RAJA CITY
+postagola
+jurain
+dayaganj
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+bata signal
+science lab
+city college
+jigatola
+dhanmondi 15
+star kabab
+shankar
+mohammadpur
+basila
+ghatar char
+15
+RAJANIGANDHA
+chittagong road
+sign board
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+gpo
+press club
+shahbag
+science lab
+jigatola
+dhanmondi 15
+star kabab
+shankar
+mohammadpur
+27
+RAJDHANI SUPER SERVICE
+hemayetpur
+gabtoli
+technical
+ansar camp
+mirpur 1
+sony hall
+mirpur 2
+mirpur 10
+mirpur 11
+purobi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+bashundhara
+nadda
+natun bazar
+bashtola
+shahjadpur
+uttar badda bazar
+badda
+madhya badda
+merul
+rampura bridge
+banasree
+demra staff quarter
+22
+RAMZAN
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+bata signal
+katabon
+shahbag
+motsho bhaban
+kakrail
+shantinagar
+mouchak
+malibagh railgate
+rampura
+banasree
+demra staff quarter
+20
+RUNWAY EXPRESS
+keraniganj
+kodomtoli
+babu bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+press club
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+agargaon
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+mirpur 12
+ecb
+8
+RUPA PARIBAHAN
+gabtoli
+technical
+ansar camp
+mirpur 1
+mirpur 2
+mirpur 10
+mirpur 14
+vashantek
+18
+SAFETY DRUTI
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+dhanmondi 27
+dhanmondi 32
+kalabagan
+city college
+new market
+nilkhet
+azimpur
+dhakeshwari
+20
+SALSABIL
+postagola
+dholairpar
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+merul
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+gazipur
+23
+SAVAR PARIBAHAN
+sadarghat
+golap shah mazar
+gpo
+press club
+high court
+shahbag
+science lab
+kalabagan
+dhanmondi 27
+dhanmondi 32
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+baipayl
+zirani bazar
+nandan park
+14
+SHADHIN
+bosila
+mohammadpur
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+moghbazar
+mouchak
+malibagh railgate
+rampura
+banasree
+demra
+staff quarter
+24
+SHADHIN EXPRESS
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+babu bazar
+keraniganj
+mawa
+24
+SHAHRIA ENTERPRISE
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+katabon
+shahbag
+motsho bhaban
+kakrail
+fakirapool
+arambagh
+motijheel
+ittefaq
+tikatuli
+dayaganj
+gandaria
+jurain
+postagola
+22
+SHAHRIAR PARIBAHAN
+japan garden city
+adabor
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+bata signal
+shahbag
+motsho bhaban
+kakrail
+fakirapool
+arambagh
+motijheel
+ittefaq
+tikatuli
+dayaganj
+gandaria
+jurain
+19
+SHATABDI TRANSPORT
+motijheel
+paltan
+kakrail
+malibagh
+mouchak
+moghbazar
+satrasta
+nabisco
+mohakhali
+chairman bari
+banani
+kakoli
+shewra
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+kamarpara
+22
+SHIKHAR PARIBAHAN
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+bijoy sarani
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+jonopath mor
+jatrabari
+20
+SHIKOR PARIBAHAN
+jatrabari
+sayedabad
+gulistan
+gpo
+paltan
+press club
+high court
+shahbag
+bangla motor
+kawran bazar
+farmgate
+bijoy sarani
+agargaon
+idb
+taltola
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+mirpur 12
+21
+SHUBHECCHA
+dhakeshwari
+azimpur
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shyamoli
+kallyanpur
+darussalam
+technical
+gabtoli
+hemayetpur
+savar
+nobinagar
+baipayl
+zirani bazar
+nandan park
+chandra
+20
+SHUVOJATRA
+fulbaria
+golap shah mazar
+gpo
+press club
+high court
+shahbag
+science lab
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+manikganj
+33
+SKYLINE
+sadarghat
+ray shaheb bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+moghbazar
+nabisco
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur chowrasta
+20
+SMART WINNER
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+panthapath
+kawran bazar
+bot tola
+nabisco
+mohakhali
+wireless gate
+gulshan 1
+badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+nadda
+bashundhara
+kuril bishwa road
+27
+SOMATA PARIBAHAN
+chittagong road
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+ansar camp
+mirpur 1
+rainkhola
+chiriakhana
+26
+SOMOY
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+jonopath mor
+gulistan
+gpo
+paltan
+press club
+high court
+motsho bhaban
+shahbag
+bangla motor
+kawran bazar
+farmgate
+bijoy sarani
+agargaon
+taltola
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+purobi
+pallabi
+mirpur 12
+23
+SOMOY NIYANTRAN
+mirpur 12
+pallabi
+purobi
+mirpur 11
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+babu bazar
+keraniganj
+34
+SUPRAVAT SPECIAL SERVICE
+sadarghat
+ray shaheb bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+malibagh railgate
+rampura
+merul
+madhya badda
+badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+nadda
+bashundhara
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur
+34
+TALUKDAR
+chiriakhana
+mirpur 1
+ansar camp
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+moghbazar
+mouchak
+malibagh mor
+rajarbagh
+khilgaon flyover
+basabo
+mugdapara
+manik nagar
+golapbag
+chowrasta
+sayedabad
+jonopath mor
+jatrabari
+kazla
+shonir akhra
+rayerbag
+matuail
+sign board
+sanarpar
+chittagong road
+23
+TANJIL PARIBAHAN
+chiriakhana
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+golap shah mazar
+naya bazar
+ray shaheb bazar
+sadarghat
+25
+TETULIYA PARIBAHAN
+shia masjid
+japan garden city
+ring road
+adabor
+shyamoli
+shishu mela
+agargaon
+taltola
+shewrapara
+kazipara
+mirpur 10
+mirpur 11
+purobi
+pallabi
+kalshi
+ecb
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+house building
+abdullahpur
+20
+THE NEW VISION
+chiriakhana
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+30
+THIKANA
+sign board
+matuail
+rayerbag
+shonir akhra
+jatrabari
+sayedabad
+gulistan
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+baipayl
+zirani bazar
+nandan park
+chandra
+34
+THIKANA EXPRESS
+shonbari sreenagar
+nimtola
+kuchiamura
+rejendrapur
+hasnabad
+postagola
+jurain
+dholairpar
+jatrabari
+sayedabad
+gulistan
+chankhar pul
+bakshi bazar
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 32
+dhanmondi 27
+asad gate
+college gate
+shishu mela
+shyamoli
+kallyanpur
+technical
+gabtoli
+aminbazar
+hemayetpur
+savar
+baipayl
+zirani bazar
+nandan park
+chandra
+23
+TRANS SILVA
+mirpur 1
+ansar camp
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+dhanmondi 27
+dhanmondi 32
+kalabagan
+science lab
+bata signal
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+gpo
+gulistan
+sayedabad
+jonopath mor
+jatrabari
+17
+TRUST TRANSPORT SERVICES
+mirpur dohs
+kalshi
+ecb
+garrison
+adamjee school
+workshop
+saudi colony
+jahangir gate
+farmgate
+kawran bazar
+bangla motor
+shahbag
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+10
+TRUST TRANSPORT SERVICES (AC)
+mirpur dohs
+kalshi
+ecb
+garrison
+adamjee school
+workshop
+saudi colony
+jahangir gate
+farmgate
+kawran bazar
+6
+TRUST TRANSPORT SERVICES 2
+mirpur 10
+mirpur 13
+mirpur 14
+kochukhet
+shainik club
+banani
+11
+TRUST TRANSPORT SERVICES 3
+mirpur 10
+mirpur 13
+mirpur 14
+kochukhet
+workshop
+saudi colony
+jahangir gate
+farmgate
+kawran bazar
+bangla motor
+shahbag
+16
+TURAG
+jatrabari
+sayedabad
+mugdapara
+basabo
+khilgaon
+malibagh
+rampura
+badda
+natun bazar
+nadda
+kuril bishwa road
+khilkhet
+airport
+house building
+abdullahpur
+tongi
+31
+VIP 27
+azimpur
+nilkhet
+new market
+city college
+kalabagan
+dhanmondi 27
+dhanmondi 32
+khamarbari
+farmgate
+jahangir gate
+mohakhali
+chairman bari
+shainik club
+banani
+kakoli
+staff road
+mes
+shewra
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+abdullahpur
+tongi
+station road
+mill gate
+board bazar
+gazipur chowrasta
+29
+VICTOR CLASSIC
+sadarghat
+ray shaheb bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+malibagh railgate
+rampura
+merul
+madhya badda
+badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+nadda
+bashundhara
+kuril bishwa road
+khilkhet
+airport
+jasimuddin
+rajlakshmi
+azampur
+house building
+dia bari
+21
+VICTOR PARIBAHAN
+sadarghat
+ray shaheb bazar
+naya bazar
+golap shah mazar
+gpo
+paltan
+kakrail
+shantinagar
+malibagh mor
+mouchak
+malibagh railgate
+rampura
+merul
+madhya badda
+uttar badda bazar
+shahjadpur
+bashtola
+natun bazar
+nadda
+bashundhara
+kuril bishwa road
+25
+WELCOME
+nandan park
+zirani bazar
+baipayl
+nobinagar
+savar
+hemayetpur
+aminbazar
+gabtoli
+technical
+kallyanpur
+shyamoli
+shishu mela
+college gate
+asad gate
+khamarbari
+farmgate
+kawran bazar
+bangla motor
+shahbag
+high court
+press club
+paltan
+gpo
+gulistan
+motijheel
+18
+ZARIF
+mirpur 14
+mirpur 10
+kazipara
+shewrapara
+taltola
+agargaon
+bijoy sarani
+farmgate
+kawran bazar
+bangla motor
+shahbag
+motsho bhaban
+high court
+press club
+paltan
+daynik bangla mor
+motijheel
+kamalapur
+
