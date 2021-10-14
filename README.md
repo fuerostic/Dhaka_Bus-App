@@ -13,9 +13,6 @@ C++
 ## Description
 This is a console application based on C++ which allows user to find buses in a given starting point and destination point of Dhaka city. The data collected for this console application was as of 2018. Every input output is taken and showed in console window.
 
-## How to run
-Go to the path containing the Bus-App folder, open linux command line. After that run by ./main then the application will be shown in the command line as a console application
-
 #### Initial window
 In the initial window there are 3 options: register, login and exit. A new user can register and existing user can login
 
