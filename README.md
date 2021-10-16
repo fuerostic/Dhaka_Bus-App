@@ -36,7 +36,7 @@ After login , the user will be able to see 7 sections.
 7. **Log out** :Logging out 
 
 ## FAQ
-1. **How to run?**: Go to the path containing the Bus-App folder, open linux command line. After that run by ./main then the application will be shown in the command line as a console application
+1. **How to run?**: Go to the path containing the Bus-App folder, open linux command line. After that run by './main' then the application will be shown in the command line as a console application
 2. **How can I run in windows?** : The app can be run in the same way in windows using [WSL (windows subsystem for linux)](https://docs.microsoft.com/en-us/windows/wsl/install) 
 
 ## Notes
