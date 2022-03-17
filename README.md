@@ -1,17 +1,21 @@
-# Dhaka Bus App
+![forks](https://img.shields.io/github/forks/fuerostic/Dhaka_Bus-App.svg)
+![stars](https://img.shields.io/github/stars/fuerostic/Dhaka_Bus-App.svg)
+![watchers]( 	https://img.shields.io/github/watchers/fuerostic/Dhaka_Bus-App.svg)
+
+# Dhaka Bus App ![License](https://img.shields.io/github/license/fuerostic/Dhaka_Bus-App.svg)
 A console application built in C++ which is aimed to find bus route and estimated distance and fare based on the data of 2018.
 
 ## App name 
 Dhaka Bus
 
-## Platform
-Linux (Ubuntu 18.04)
+## Compatible Platform
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Creation date
 2019
 
 ## Language
-C++
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Description
 This is a console application based on C++ which allows user to find buses in a given starting point and destination point of Dhaka city. The data collected for this console application was as of 2018. Every input output is taken and showed in console window.
